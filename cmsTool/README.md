@@ -17,6 +17,6 @@ Create/add "cms_project.sql" named database.
 ************ID's & PASSWORD's***********
 
 ---------------USER ID-------------------PASSWORD--------------
-    singh.bhupendra2612@gmail.com          2222
-    shyadmin@gmail.com                     1234
+    singh.anish2612@gmail.com          2222
+    khular@gmail.com                     1234
     austermady@gmail.com                   4321
